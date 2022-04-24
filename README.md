@@ -1,0 +1,2 @@
+# proyectoIA-python
+scripts python 
